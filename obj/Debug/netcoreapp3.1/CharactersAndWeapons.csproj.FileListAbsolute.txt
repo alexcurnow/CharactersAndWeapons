@@ -1,0 +1,13 @@
+C:\Users\Alexander Curnow\design-patterns\CharactersAndWeapons\bin\Debug\netcoreapp3.1\CharactersAndWeapons.exe
+C:\Users\Alexander Curnow\design-patterns\CharactersAndWeapons\bin\Debug\netcoreapp3.1\CharactersAndWeapons.deps.json
+C:\Users\Alexander Curnow\design-patterns\CharactersAndWeapons\bin\Debug\netcoreapp3.1\CharactersAndWeapons.runtimeconfig.json
+C:\Users\Alexander Curnow\design-patterns\CharactersAndWeapons\bin\Debug\netcoreapp3.1\CharactersAndWeapons.runtimeconfig.dev.json
+C:\Users\Alexander Curnow\design-patterns\CharactersAndWeapons\bin\Debug\netcoreapp3.1\CharactersAndWeapons.dll
+C:\Users\Alexander Curnow\design-patterns\CharactersAndWeapons\bin\Debug\netcoreapp3.1\CharactersAndWeapons.pdb
+C:\Users\Alexander Curnow\design-patterns\CharactersAndWeapons\obj\Debug\netcoreapp3.1\CharactersAndWeapons.csprojAssemblyReference.cache
+C:\Users\Alexander Curnow\design-patterns\CharactersAndWeapons\obj\Debug\netcoreapp3.1\CharactersAndWeapons.AssemblyInfoInputs.cache
+C:\Users\Alexander Curnow\design-patterns\CharactersAndWeapons\obj\Debug\netcoreapp3.1\CharactersAndWeapons.AssemblyInfo.cs
+C:\Users\Alexander Curnow\design-patterns\CharactersAndWeapons\obj\Debug\netcoreapp3.1\CharactersAndWeapons.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Curnow\design-patterns\CharactersAndWeapons\obj\Debug\netcoreapp3.1\CharactersAndWeapons.dll
+C:\Users\Alexander Curnow\design-patterns\CharactersAndWeapons\obj\Debug\netcoreapp3.1\CharactersAndWeapons.pdb
+C:\Users\Alexander Curnow\design-patterns\CharactersAndWeapons\obj\Debug\netcoreapp3.1\CharactersAndWeapons.genruntimeconfig.cache
